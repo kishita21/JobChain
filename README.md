@@ -94,7 +94,7 @@ Start the backend using the script configured in `backend/package.json`.
 
 ### 6. Blockchain Setup
 
-Configure the Hyperledger Fabric network and deploy the job marketplace chaincode before running blockchain-integrated operations.
+Configure the Hyperledger Fabric network and deploy the JobChain smart contract (chaincode) before running blockchain-integrated operations.
 
 ## 🎯 Project Objective
 
@@ -108,14 +108,17 @@ The main objective of JobChain is to develop a decentralized recruitment platfor
 - Blockchain-based verification of job postings.
 - Secure candidate credential verification.
 
-## 👩‍💻 Developed By
+## 👩‍💻 Contributors
 
-**Kishita Ahuja**
+| Name | GitHub Profile |
+|---|---|
+| **Kishita Ahuja** | [@kishita21](https://github.com/kishita21) |
+| **Khushi** | [@khushi9n](https://github.com/khushi9n) |
 
-GitHub: [@kishita21](https://github.com/kishita21)
+Both contributors are collaborating on JobChain, a blockchain-based job marketplace developed using Hyperledger Fabric.
 
----
+## ⭐ Support
 
-⭐ If you find this project interesting, consider giving it a star!
+If you find this project interesting, consider giving the repository a star!
 
 **JobChain – Building Trust in Recruitment Through Blockchain Technology.**
